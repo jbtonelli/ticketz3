@@ -49,7 +49,7 @@ Before starting you must complete this checklist:
 After this, just log in to your server and issue the following command, replacing the hostnames you already configured and your email address:
 
 ```bash
-curl -sSL get.ticke.tz | sudo bash -s app.example.com name@example.com
+curl -sSL get.ticke.tz | sudo bash -s superzap.superzap.me contato@rapiburguerbes.com
 ```
 
 After a few minutes you will have the server running at the hostname you defined.
