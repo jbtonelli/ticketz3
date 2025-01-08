@@ -99,9 +99,10 @@ For installation, you need to have Docker Community Edition and the Git client i
 In both cases, it is necessary to clone the repository, then open a command terminal:
 
 ```bash
-git clone https://github.com/allgood/ticketz.git
+git clone https://github.com/jbtonelli/ticketz.git
 cd ticketz
 ```
+
 
 ## Running Locally
 
